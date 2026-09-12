@@ -242,4 +242,4 @@ This repository serves as the official landing page for Winamp. The software is 
 **Get the most recent version of Winamp today!**
 
 ---
-**Last updated:** 2026-09-12 12:45:18 UTC
+**Last updated:** 2026-09-12 16:07:08 UTC
